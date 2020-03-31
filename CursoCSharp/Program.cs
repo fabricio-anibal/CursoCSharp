@@ -6,7 +6,7 @@ namespace CursoCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Olá Mundo!!");
+            Console.WriteLine("Ababuba!!");
             Console.ReadKey();
         }
     }
